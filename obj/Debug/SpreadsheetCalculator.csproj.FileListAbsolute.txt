@@ -1,0 +1,5 @@
+D:\SpreadsheetCalculator\SpreadsheetCalculator\obj\Debug\SpreadsheetCalculator.csprojResolveAssemblyReference.cache
+D:\SpreadsheetCalculator\SpreadsheetCalculator\bin\Debug\SpreadsheetCalculator.exe
+D:\SpreadsheetCalculator\SpreadsheetCalculator\bin\Debug\SpreadsheetCalculator.pdb
+D:\SpreadsheetCalculator\SpreadsheetCalculator\obj\Debug\SpreadsheetCalculator.exe
+D:\SpreadsheetCalculator\SpreadsheetCalculator\obj\Debug\SpreadsheetCalculator.pdb
